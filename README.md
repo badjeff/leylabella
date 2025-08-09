@@ -47,6 +47,7 @@ this is a computer mouse 🐭.
 <img src="./imgs/p5.jpeg" width="233">
 <img src="./imgs/p6.jpeg" width="233">
 <img src="./imgs/p7.jpeg" width="233">
+<img src="./imgs/p8.jpeg" width="233">
 </p>
 
 https://github.com/user-attachments/assets/b8692ff0-01a4-4cb0-a1dc-d5b0ee7fba73
