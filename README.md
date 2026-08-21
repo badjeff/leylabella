@@ -69,7 +69,7 @@ https://github.com/user-attachments/assets/b8692ff0-01a4-4cb0-a1dc-d5b0ee7fba73
 |1|M2 Screw Boxset (3-10mm)|
 |4**|M2 Spacer 4mm diameter|
 |4**|M2 Silicon O-ring|
-|8|Neodymium Disc Magnets 5x1mm (Diameter x Thick)|
+|8|Neodymium Disc Magnets 5x1mm (Diameter x Tall)|
 |1|601230 Lipo Battery (plus connector)|
 |6|Thick Mouse Feet Skates Dots (~0.7mm)|
 |1|30/28/26 AWG silicone wire|
@@ -86,7 +86,7 @@ https://github.com/user-attachments/assets/b8692ff0-01a4-4cb0-a1dc-d5b0ee7fba73
 - NOT for beginner. Requiring experience of building at least one wireless keyboard on [ZMK](https://github.com/zmkfirmware/zmk).
 - print chassis plate with PLA, easier to screw
 - print trackball socket with resin printing
-- lens-to-Surface distance must >1mm & <2mm. Assuming all mouse feet is ~0.65mm thick.
+- lens-to-surface distance ~2.4mm (+/-0.2mm). Assuming all mouse feet is ~0.65mm tall.
 - both optical sensor breakout pcb (and its lens) has the same width and height, that both can fit in the sensor rail. Therefor, surface facing sensor would be swapped to PMW3610 (yeah, dual 3610 build) if +0.5mm to all mouse feet regarding different lens focus distance.
 
 
